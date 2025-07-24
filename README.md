@@ -82,7 +82,7 @@ Visit `http://localhost:5000` in your browser.
 ## 👤 Author
 
 **Anushka Pardeshi**  
-GitHub: [@Sagar-Pariyar](https://github.com/anushkap611)
+GitHub: [@anushkap611](https://github.com/anushkap611)
 
 This project was developed as a part of Machine Learning Course work in PCCOE, Pune
 ## Screenshots
