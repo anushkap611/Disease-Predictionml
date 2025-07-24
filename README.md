@@ -45,7 +45,7 @@ It is trained on a symptom-to-disease mapping dataset.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Sagar-Pariyar/disease-prediction
+git clone https://github.com/anushkap611/disease-prediction
 cd disease-prediction
 ```
 
@@ -81,8 +81,8 @@ Visit `http://localhost:5000` in your browser.
 
 ## 👤 Author
 
-**Sagar Pariyar**  
-GitHub: [@Sagar-Pariyar](https://github.com/Sagar-Pariyar)
+**Anushka Pardeshi**  
+GitHub: [@Sagar-Pariyar](https://github.com/anushkap611)
 
 This project was developed as a part of Machine Learning Course work in PCCOE, Pune
 ## Screenshots
